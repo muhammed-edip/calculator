@@ -1,2 +1,2 @@
 # calculator
-calculator with c++
+calculator with different case type in c++
